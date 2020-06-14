@@ -1,0 +1,17 @@
+{
+  "name": "choicecamclient",
+  "displayName": "choicecamclient",
+  "expo": {
+    "name": "choicecamclient",
+    "slug": "choicecamclient",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
